@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    margin-top: 50px;
+}
+
+.card{
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
